@@ -1,0 +1,6 @@
+grooming_model.h5
+dataset/
+accepted_dataset.zip
+rejected_dataset.zip
+__pycache__/
+.venv/
